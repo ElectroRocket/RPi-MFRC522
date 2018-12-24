@@ -1,5 +1,5 @@
-#Author :Krishaay Jois
-#Date Written: 22 December 2018
+#Author :Krishaay J
+#Date Written: 24 December 2018
 #Purpose: To install RFID and SPI libraries for MFRC522 module
 cd /home/pi
 #begin
